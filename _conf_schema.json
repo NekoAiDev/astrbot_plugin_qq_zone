@@ -1,0 +1,13 @@
+{
+  "cookies": {
+    "description": "QQ账号Cookie配置，key为QQ号，value为Cookie字符串",
+    "type": "object",
+    "default": {},
+    "hint": "通过指令 /qq动态 设置Cookie 来添加，无需手动填写"
+  },
+  "default_count": {
+    "description": "默认获取动态数量",
+    "type": "int",
+    "default": 10
+  }
+}

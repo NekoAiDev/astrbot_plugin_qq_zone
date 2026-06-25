@@ -1,0 +1,10 @@
+{
+    "id": "astrbot_plugin_qq_zone",
+    "name": "QQ空间动态查看",
+    "desc": "通过Cookie查看QQ空间动态，支持好友非公开动态",
+    "version": "1.0.0",
+    "repo": "https://github.com/NekoAiDev/astrbot_plugin_qq_zone",
+    "author": "NekoAi Team",
+    "homepage": "https://github.com/NekoAiDev/astrbot_plugin_qq_zone",
+    "main": "main.py"
+}
