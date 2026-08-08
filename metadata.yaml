@@ -1,0 +1,8 @@
+name: astrbot_plugin_qq_zone
+display_name: QQ空间动态查看
+short_desc: 通过Cookie查看QQ空间动态，支持好友非公开动态
+desc: QQ空间动态一键查看插件 - 通过Cookie查看好友动态，支持AstrBot插件+独立CLI双形态
+version: 1.0.0
+author: 小红蛋
+repo: https://github.com/NekoAiDev/astrbot_plugin_qq_zone
+social_link: https://links.nekoaidev.top
